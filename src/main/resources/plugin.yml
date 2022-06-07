@@ -1,0 +1,4 @@
+name: JoinMessage
+version: '${project.version}'
+main: com.min.joinmessage.JoinMessage
+api-version: 1.18
